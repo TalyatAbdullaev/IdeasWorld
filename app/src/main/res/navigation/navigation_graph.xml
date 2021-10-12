@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/photosFragment">
+    <fragment
+        android:id="@+id/favoritesFragment"
+        android:name="com.example.ideasworld.fragments.FavoritesFragment"
+        android:label="FavoritesFragment" />
+    <fragment
+        android:id="@+id/infoFragment"
+        android:name="com.example.ideasworld.fragments.InfoFragment"
+        android:label="InfoFragment" />
+    <fragment
+        android:id="@+id/photosFragment"
+        android:name="com.example.ideasworld.fragments.PhotosFragment"
+        android:label="PhotosFragment" />
+</navigation>
