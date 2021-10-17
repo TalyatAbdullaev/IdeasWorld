@@ -1,9 +1,9 @@
-package com.example.ideasworld.api.pojo
+package com.example.ideasworld.pojo
 
 import com.google.gson.annotations.Expose
 import com.google.gson.annotations.SerializedName
 
-data class ImageUrls(
+data class PhotoUrls(
     @SerializedName("raw")
     @Expose
     val raw: String,

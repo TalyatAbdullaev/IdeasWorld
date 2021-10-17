@@ -3,11 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Projects/IdeasWorld/app/src/main/res/drawable/description_background.xml" value="0.2890625" />
+        <entry key="..\:/Android Projects/IdeasWorld/app/src/main/res/drawable/favorite_switch.xml" value="0.2890625" />
+        <entry key="..\:/Android Projects/IdeasWorld/app/src/main/res/drawable/favourite_switch.xml" value="0.2890625" />
+        <entry key="..\:/Android Projects/IdeasWorld/app/src/main/res/drawable/ic_photos.xml" value="0.2890625" />
         <entry key="..\:/Android Projects/IdeasWorld/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Android Projects/IdeasWorld/app/src/main/res/layout/blank_fragment.xml" value="0.23596014492753623" />
         <entry key="..\:/Android Projects/IdeasWorld/app/src/main/res/layout/fragment_favorites.xml" value="0.2554347826086957" />
         <entry key="..\:/Android Projects/IdeasWorld/app/src/main/res/layout/fragment_info.xml" value="0.259963768115942" />
         <entry key="..\:/Android Projects/IdeasWorld/app/src/main/res/layout/fragment_photos.xml" value="0.2554347826086957" />
-        <entry key="..\:/Android Projects/IdeasWorld/app/src/main/res/layout/image_item.xml" value="0.9111842105263158" />
+        <entry key="..\:/Android Projects/IdeasWorld/app/src/main/res/layout/image_item.xml" value="0.25" />
+        <entry key="..\:/Android Projects/IdeasWorld/app/src/main/res/layout/photo_item.xml" value="0.23596014492753623" />
         <entry key="..\:/Android Projects/IdeasWorld/app/src/main/res/menu/bottom_menu.xml" value="0.27291666666666664" />
       </map>
     </option>

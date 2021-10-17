@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">Ideas World</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Меню -->
     <string name="menu_favorites">Избранное</string>
     <string name="menu_photos">Фото</string>
     <string name="menu_info">Инфо</string>
+
+    <string name="photo">Фото</string>
+    <string name="no_connection">Нет соединения</string>
+    <string name="no_connection_message">Нет соединения\nПотяние вниз, чтобы обновить страницу</string>
 </resources>

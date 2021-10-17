@@ -6,14 +6,14 @@
     app:startDestination="@id/photosFragment">
     <fragment
         android:id="@+id/favoritesFragment"
-        android:name="com.example.ideasworld.fragments.FavoritesFragment"
+        android:name="com.example.ideasworld.fragments.favoritesfragment.FavoritesFragment"
         android:label="FavoritesFragment" />
     <fragment
         android:id="@+id/infoFragment"
-        android:name="com.example.ideasworld.fragments.InfoFragment"
+        android:name="com.example.ideasworld.fragments.infofragment.InfoFragment"
         android:label="InfoFragment" />
     <fragment
         android:id="@+id/photosFragment"
-        android:name="com.example.ideasworld.fragments.PhotosFragment"
+        android:name="com.example.ideasworld.fragments.photosfragment.PhotosFragment"
         android:label="PhotosFragment" />
 </navigation>
